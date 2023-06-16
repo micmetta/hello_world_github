@@ -17,5 +17,7 @@ public class Main {
         System.out.println("Modifica aggiunta");
         System.out.println("Modifica aggiunta SOLO nel branch MASTER");
         System.out.println("Modifica aggiunta SOLO nel branch CREATO DIRETTAMENTE DA INTELLIJ");
+        System.out.println("Modifica aggiunta SOLO nel branch di Michele (aggiunta nel master)");
+        System.out.println("Altra Aggiunta nel master");
     }
 }
