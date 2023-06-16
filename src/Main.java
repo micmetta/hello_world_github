@@ -15,6 +15,6 @@ public class Main {
         }
 
         System.out.println("Modifica aggiunta");
-        System.out.println("Modifica aggiunta solo nel branch Master");
+
     }
 }
