@@ -20,5 +20,6 @@ public class Main {
         System.out.println("Modifica aggiunta SOLO nel branch di Michele (aggiunta nel master)");
         System.out.println("Altra Aggiunta nel master");
         System.out.println("Grazie Padre Pio ");
+        System.out.println("Così sia");
     }
 }
